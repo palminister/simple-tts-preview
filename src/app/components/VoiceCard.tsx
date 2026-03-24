@@ -80,7 +80,15 @@ export function VoiceCard({
 }
 
 function PlayIcon() {
-  return <div className='ml-0.5 text-[22px] leading-none text-white'>▶</div>;
+  return (
+    <svg
+      aria-hidden='true'
+      className='ml-0.5 h-[40px] w-[40px] fill-white'
+      viewBox='0 0 24 24'
+    >
+      <path d='M8 6.5v11l9-5.5-9-5.5Z' />
+    </svg>
+  );
 }
 
 function PauseIcon() {
