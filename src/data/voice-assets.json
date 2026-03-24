@@ -1,0 +1,86 @@
+{
+  "previewText": {
+    "en": "There are some super fun events happening right now! Like the Flowers of Love where you can celebrate Valentine's Day amid the most beautiful blooms. There's also a Pet Expo for all our furry, scaly, and feathery friends. Do you want to see the full list of events, or are you curious about one of these specific ones?",
+    "th": "ตอนนี้มีอีเว้นท์สนุกสนุก เต็มไปหมดเลยฮะ น้องแฮปปี้เห็นมีทั้งงาน Pet Expo สำหรับคนรักสัตว์เลี้ยง แล้วก็มีงาน The Flowers of LOVE สำหรับคนอินเลิฟด้วยนะ! ตัวเองอยากดูรายละเอียดอีเว้นท์ทั้งหมดเลยมั้ย หรือว่ามีงานไหนสนใจเป็นพิเศษหรือเปล่า? บอกน้องแฮปปี้ได้เลยนะ"
+  },
+  "voices": [
+    {
+      "id": "Bree",
+      "name": "Bree",
+      "avatar": "/avatars/Bree.svg",
+      "description": {
+        "en": "A bright, bubbly energy and playful charm",
+        "th": "เสียงใส ร่าเริง เต็มไปด้วยพลังและเสน่ห์น่ารัก"
+      },
+      "audio": {
+        "en": "/audio/Bree_EN_US.wav",
+        "th": "/audio/Bree_TH.wav"
+      }
+    },
+    {
+      "id": "Brian",
+      "name": "Brian",
+      "avatar": "/avatars/Brian.svg",
+      "description": {
+        "en": "A youthful and cheerful guy that can handle any task",
+        "th": "เสียงหนุ่มน้อยร่าเริง สนุกสนาน พร้อมรับมือทุกอย่าง"
+      },
+      "audio": {
+        "en": "/audio/Brian_EN_US.wav",
+        "th": "/audio/Brian_TH.wav"
+      }
+    },
+    {
+      "id": "Ximena",
+      "name": "Ximena",
+      "avatar": "/avatars/Ximena.svg",
+      "description": {
+        "en": "A crisp and cheerful girl that brings clarity and positivity",
+        "th": "เสียงชัดเจนและร่าเริง ช่วยเติมพลังบวกให้บทสนทนา"
+      },
+      "audio": {
+        "en": "/audio/Ximena_EN_US.wav",
+        "th": "/audio/Ximena_TH.wav"
+      }
+    },
+    {
+      "id": "Phoebe",
+      "name": "Phoebe",
+      "avatar": "/avatars/Phoebe.svg",
+      "description": {
+        "en": "A confident and upbeat voice with bright youthful energy",
+        "th": "เสียงมั่นใจ พร้อมรับมือทุกปัญหาอย่างเต็มที่"
+      },
+      "audio": {
+        "en": "/audio/Phoebe_EN_US.wav",
+        "th": "/audio/Phoebe_TH.wav"
+      }
+    },
+    {
+      "id": "Ava",
+      "name": "Ava",
+      "avatar": "/avatars/Ava.svg",
+      "description": {
+        "en": "A bright, versatile voice for storytelling, and conversations",
+        "th": "เสียงเหมาะกับพอดแคสต์ การเล่าเรื่อง และการสนทนา"
+      },
+      "audio": {
+        "en": "/audio/Ava3_EN_US.wav",
+        "th": "/audio/Ava3_TH.wav"
+      }
+    },
+    {
+      "id": "Emma",
+      "name": "Emma",
+      "avatar": "/avatars/Emma.svg",
+      "description": {
+        "en": "An energetic, dynamic tone for podcasts and storytelling.",
+        "th": "น้ำเสียงกระฉับกระเฉง เหมาะกับพอดแคสต์ และการเล่าเรื่อง"
+      },
+      "audio": {
+        "en": "/audio/Emma_EN_US.wav",
+        "th": "/audio/Emma_TH.wav"
+      }
+    }
+  ]
+}
