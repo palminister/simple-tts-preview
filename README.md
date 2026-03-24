@@ -1,11 +1,5 @@
+## Running the code
 
-  # Untitled
+Run `npm i` to install the dependencies.
 
-  This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/H3mgSlAx5uGMzZr2wE2Wh0/Untitled.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+Run `npm run dev` to start the development server.
