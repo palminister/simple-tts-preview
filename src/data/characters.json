@@ -1,0 +1,124 @@
+{
+  "previewText": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight",
+  "characters": [
+    {
+      "id": "moses_old",
+      "name": "Moses",
+      "age_tag": "old",
+      "voice_id": "en-US-GuyNeural",
+      "language": "en",
+      "rate": 140,
+      "volume": 1.0,
+      "voice_direction": {
+        "tone": "Deep baritone",
+        "authority": "Calm, unshakeable",
+        "pacing": "Measured, never rushed",
+        "warmth": "Warm but commanding",
+        "archetype": "Grandfather telling the most important story of his life",
+        "emotion": "No anger; firm conviction"
+      }
+    },
+    {
+      "id": "moses_mid",
+      "name": "Moses",
+      "age_tag": "mid-age",
+      "voice_id": "en-US-AndrewNeural",
+      "language": "en",
+      "rate": 155,
+      "volume": 1.0,
+      "voice_direction": {
+        "tone": "Baritone with slight rasp from desert thirst",
+        "authority": "Contemplative over commanding",
+        "pacing": "Faster than elder Moses",
+        "warmth": "Uncertain, introspective",
+        "archetype": "A man speaking to himself as much as to others",
+        "emotion": "Signs of uncertainty and introspection"
+      }
+    },
+    {
+      "id": "daniel_young",
+      "name": "Daniel",
+      "age_tag": "young",
+      "voice_id": "en-GB-RyanNeural",
+      "language": "en",
+      "rate": 155,
+      "volume": 1.0,
+      "voice_direction": {
+        "tone": "Refined, articulate, youthful, high-register and clear",
+        "authority": "Diplomatically firm",
+        "pacing": "Fast-paced but deliberate",
+        "warmth": "Never aggressive; empathetic",
+        "archetype": "Mathematician's precision with a philosopher's empathy",
+        "emotion": "Quick wit, high intelligence"
+      }
+    },
+    {
+      "id": "daniel_old",
+      "name": "Daniel",
+      "age_tag": "old",
+      "voice_id": "en-US-BrianNeural",
+      "language": "en",
+      "rate": 132,
+      "volume": 1.0,
+      "voice_direction": {
+        "tone": "Wise, measured, composed",
+        "authority": "Quiet confidence; stood before kings without fear",
+        "pacing": "Slightly slower; reflects contemplative depth",
+        "warmth": "Scholarly and precise but not cold",
+        "archetype": "Senior statesman addressing a council",
+        "emotion": "Not a fiery preacher"
+      }
+    },
+    {
+      "id": "paul",
+      "name": "Paul",
+      "age_tag": null,
+      "voice_id": "en-US-AndrewNeural",
+      "language": "en",
+      "rate": 138,
+      "volume": 1.0,
+      "voice_direction": {
+        "tone": "Articulate, passionate, intellectually intense",
+        "authority": "Sharp logical argument",
+        "pacing": "More energetic than Moses or Daniel; reflects missionary urgency",
+        "warmth": "Warm but direct; tender pastoral concern",
+        "archetype": "Brilliant professor who left the academy to change the world",
+        "emotion": "Can shift from tender care to sharp argument within the same thought"
+      }
+    },
+    {
+      "id": "augustine",
+      "name": "Augustine",
+      "age_tag": null,
+      "voice_id": "en-GB-ThomasNeural",
+      "language": "en",
+      "rate": 126,
+      "volume": 1.0,
+      "voice_direction": {
+        "tone": "Warm, deeply reflective, professorial",
+        "authority": "Every word carefully chosen",
+        "pacing": "Slowest speaker of the five; deliberate",
+        "warmth": "Intimate and confessional",
+        "archetype": "Oxford don who lived through personal crisis and found peace",
+        "emotion": "Can shift between intimate confession and sweeping historical argument"
+      }
+    },
+    {
+      "id": "lincoln",
+      "name": "Lincoln",
+      "age_tag": null,
+      "voice_id": "en-US-ChristopherNeural",
+      "language": "en",
+      "rate": 122,
+      "volume": 1.0,
+      "voice_direction": {
+        "tone": "High-pitched tenor; historically documented, not Hollywood bass",
+        "authority": "Weight of every word carries the weight of a nation",
+        "pacing": "Slow, deliberate; uses silence and pause as rhetorical tools",
+        "warmth": "Plain and direct; slight Kentucky frontier accent",
+        "archetype": "Gettysburg Address delivery; quiet, not bombastic",
+        "emotion": "Can shift from folksy humor to devastating moral gravity in one paragraph"
+      }
+    }
+  ]
+}
